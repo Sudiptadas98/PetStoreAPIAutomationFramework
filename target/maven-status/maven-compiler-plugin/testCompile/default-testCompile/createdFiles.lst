@@ -6,6 +6,7 @@ api\base\package-info.class
 api\payload\GetUserResponse.class
 api\payload\User.class
 api\base\UserEndPoints2.class
+api\test\ExtraTests.class
 api\base\Routes.class
 api\test\DDTests.class
 api\payload\package-info.class
